@@ -32,4 +32,7 @@ Steps 2 - 4 are completely optional, I actually recommend you to try TASsing the
 And boom! now your current attempt is being recorded. Do note that finishing songs on extremely low speeds may take a long time, I usually TAS between 10% - 15% speed.
 When you finished the TAS, select the song you TASsed, and to the right of the play button, there should be the replay button (image below).
 ![ReplayButton](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/ReplayButton.png)
-## Exporting the replay
+Watch the replay, and if everything went right, then you've made your first TAS! Congrats!
+**You've reached the end of the guide**
+One more thing, if you want to know how to export the replay to a video, search up how to use the render function of the replay mod.
+Thanks for following the guide! I hope it helped!

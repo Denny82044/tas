@@ -6,7 +6,7 @@ This guide expects you to have a basic understanding of Beat Saber mods, and how
 1. An Oculus Quest (this TASsing method has only been tested on Quest 2, but is expected to work on all Quest 3 models).
 2. A modded version of Beat Saber (Recomended Version for TASsing: 1.37.0_9064817954).
 ## Required Mods
-Required mods can be found [here] (https://mods.bsquest.xyz/1.37.0_9064817954/)
+Required mods can be found [here](https://mods.bsquest.xyz/1.37.0_9064817954/)
 1. PracticeTweaqs (for slowing down game beyond 50%)
 2. JDFixer (for NJS cheesing)
 3. Replay (for well, replay)

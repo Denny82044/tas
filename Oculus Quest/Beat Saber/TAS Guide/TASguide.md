@@ -14,6 +14,7 @@ Required mods can be found [here](https://mods.bsquest.xyz/1.37.0_9064817954/)
 4. BeatLeader (to save replays easier)
 ## How to TAS
 By now, you should have all the required mods, and Beat Saber version 1.37.0_9064817954.
+
 Steps 2 - 4 are completely optional, I actually recommend you to try TASsing the song without NJS cheesing, but if you feel like you need it, go ahead!
 
 **IMPORTANT:** if you're planning to use BeatLeader when not TASsing, make sure "Keep Local Replays" is switched **ON** (image below), otherwise your TASes will not be saved. If you installed BeatLeader just for TAS, and aren't going to use it for other reasons, staying logged out and with the default settings is perfectly fine.

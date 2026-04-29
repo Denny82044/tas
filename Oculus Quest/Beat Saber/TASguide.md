@@ -9,14 +9,15 @@ This guide expects you to have a basic understanding of Beat Saber mods, and how
 Required mods can be found [here](https://mods.bsquest.xyz/1.37.0_9064817954/)
 1. PracticeTweaqs (for slowing down game beyond 50%)
 2. JDFixer (for NJS cheesing)
-3. Replay (for well, replay)
-4. BeatLeader (to save replays better)
+3. Replay (for well, replays)
+4. BeatLeader (to save replays easier)
 ## How to TAS
 By now, you should have all the required mods, and Beat Saber version 1.37.0_9064817954.
 Steps 2 - 4 are completely optional, I actually recommend you to try TASsing the song without NJS cheesing, but if you feel like you need it, go ahead!
 1. Head over to the song you want to TAS.
 2. Open the mod menu for JDFixer (look to your left -> Mods -> JDFixer).
-3. Look for a switch with text along the lines of "Overwrite Default NJS", and switch it off.
+3. Look for a switch with text along the lines of "Overwrite NJS", and switch it on. (Image below.)
+
 4. Use the slider that appears upon switching off this setting, and configure the NJS you feel comfortable with. (This step is entirely personal preference, to test your NJS, head into a song, and if the notes are at a confortable level, then keep it.)
 5. After setting up your NJS, press the practice button on the song you want to TAS.
 6. Set the desired speed.

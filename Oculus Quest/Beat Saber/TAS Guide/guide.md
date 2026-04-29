@@ -40,4 +40,4 @@ One more thing, if you want to know how to export the replay to a video, search 
 
 Thanks for following the guide! I hope it helped!
 
-If you're experiencing issues, follow the [troubleshooting guide](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/troubleshooting.md), and if your problem isn't there, feel free to contact me on Discord (denny82044).
+If you're experiencing issues, follow the [troubleshooting guide](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/troubleshooting.md), and if your solution isn't there, feel free to contact me on Discord (denny82044).

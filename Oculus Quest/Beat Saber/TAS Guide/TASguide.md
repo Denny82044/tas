@@ -1,7 +1,10 @@
 # Beat Saber TAS Guide
 Note: this guide is in development, and many issues may not be addressed, but the guide will get more accurate overtime.
+
 This guide does **NOT** work for PCVR, this has strictly been tested on Quest Standalone **ONLY**. You can try to follow this guide on PCVR, but don't be surprised if it doesn't work.
+
 This guide expects you to have a basic understanding of Beat Saber mods, and how to install them. If you don't know this, you will have to find other sources.
+
 Also, with the current TAS state of Beat Saber, is it currently not possible to rewind, or use savestates, you can **ONLY** use slowdown.
 ## Prerequisites
 1. An Oculus Quest (this TASsing method has only been tested on Quest 2, but is expected to work on all Quest 3 models).

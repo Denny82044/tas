@@ -30,3 +30,6 @@ Steps 2 - 4 are completely optional, I actually recommend you to try TASsing the
 5. After setting up your NJS, press the practice button on the song you want to TAS.
 6. Set the desired speed.
 And boom! now your current attempt is being recorded. Do note that finishing songs on extremely low speeds may take a long time, I usually TAS between 10% - 15% speed.
+When you finished the TAS, select the song you TASsed, and to the right of the play button, there should be the replay button (image below).
+![ReplayButton](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/ReplayButton.png)
+## Exporting the replay

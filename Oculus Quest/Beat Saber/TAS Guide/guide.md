@@ -24,9 +24,9 @@ Note: steps 2 - 4 are completely optional, I actually recommend you to try TASsi
 ![KeepLocalReplaysSwitch](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/KeepLocalReplaysSwitch.png)
 1. Head over to the song you want to TAS.
 2. Open the mod menu for JDFixer (look to your left -> Mods -> JDFixer).
-3. Look for a switch with text along the lines of "Overwrite NJS", and switch it on. (Image below.)
+3. Look for a switch with text along the lines of "Overwrite NJS", and switch it on (image below).
 ![NJSOverwriteSwitch](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/NJSOverwriteSwitch.png)
-4. Use the slider that appears upon switching on this setting, and configure the NJS you feel comfortable with. (This step is entirely personal preference, to test your NJS, head into a song at your desired speed, and if the notes are at a confortable level, then keep it.)
+4. Use the slider that appears upon switching on this setting, and configure the NJS you feel comfortable with (this step is entirely personal preference, to test your NJS, head into a song at your desired speed, and if the notes are at a confortable level, then keep it).
 5. After setting up your NJS, press the practice button on the song you want to TAS.
 6. Set the desired speed.
 And boom! now your current attempt is being recorded. Do note that finishing songs on extremely low speeds may take a long time, I usually TAS between 10% - 15% speed.

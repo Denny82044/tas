@@ -8,7 +8,7 @@ This guide expects you to have a basic understanding of Beat Saber mods, and how
 Also, with the current TAS state of Beat Saber, is it currently not possible to rewind, or use savestates, you can **ONLY** use slowdown.
 ## Prerequisites
 1. An Oculus Quest (this TASsing method has only been tested on Quest 2, but is expected to work on all Quest 3 models).
-2. A modded version of Beat Saber (Recomended Version for TASsing: 1.37.0_9064817954).
+2. A modded version of Beat Saber (recommended version for TASsing: 1.37.0_9064817954).
 ## Required Mods
 Required mods can be found [here](https://mods.bsquest.xyz/1.37.0_9064817954/)
 1. PracticeTweaqs (for slowing down game beyond 50%)

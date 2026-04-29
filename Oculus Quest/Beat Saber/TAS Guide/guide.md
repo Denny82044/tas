@@ -18,7 +18,7 @@ Required mods can be found [here](https://mods.bsquest.xyz/1.37.0_9064817954/)
 ## How to TAS
 By now, you should have all the required mods, and Beat Saber version 1.37.0_9064817954.
 
-Steps 2 - 4 are completely optional, I actually recommend you to try TASsing the song without NJS cheesing, but if you feel like you need it, go ahead!
+Note: steps 2 - 4 are completely optional, I actually recommend you to try TASsing the song without NJS cheesing, but if you feel like you need it, go ahead!
 
 **IMPORTANT:** if you're planning to use BeatLeader when not TASsing, make sure "Keep Local Replays" is switched **ON** (image below), otherwise your TASes will not be saved. If you installed BeatLeader just for TAS, and aren't going to use it for other reasons, staying logged out and with the default settings is perfectly fine.
 ![KeepLocalReplaysSwitch](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/KeepLocalReplaysSwitch.png)
@@ -39,3 +39,5 @@ Watch the replay, and if everything went right, then you've made your first TAS!
 One more thing, if you want to know how to export the replay to a video, search up how to use the render function of the replay mod.
 
 Thanks for following the guide! I hope it helped!
+
+If you're experiencing issues, follow the [troubleshooting guide](https://github.com/Denny82044/tas/blob/main/Oculus%20Quest/Beat%20Saber/TAS%20Guide/troubleshooting.md), and if your problem isn't there, feel free to contact me on Discord (denny82044).
